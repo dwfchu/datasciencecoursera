@@ -1,10 +1,10 @@
 ## testing
 
-*Helloo
-*Here
-*Is
-*My
-*List
+* Helloo
+* Here
+* Is
+* My
+* List
 
 <ol>
 <li>Does</li>
