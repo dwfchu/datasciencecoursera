@@ -15,4 +15,4 @@
 Here is my Line
 *******************
 
-What are the answers to Life! [Click Here!]((http://www.google.com/ "Boo")
+What are the answers to Life! [Click Here!](http://www.google.com/ "Boo")
